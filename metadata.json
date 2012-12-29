@@ -1,0 +1,6 @@
+{
+  "shell-version": ["3.4.2"],
+  "uuid": "ThinkTemperature@obstkiste.org",
+  "name": "ThinkTemperature",
+  "description": "It displays the temperature of your thinkpad."
+}
